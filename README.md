@@ -17,7 +17,7 @@ Fake generated tv script by the project can be found in [generated_script_1.txt]
 	```
 2. Install required dependencies using:
 ```
-		pip install -r requirements.txt
+        pip install -r requirements.txt
 ```
 3. Open a terminal window and navigate to the project folder. Open the notebook using the bellow command and follow the instructions given in the notebook.
 	
