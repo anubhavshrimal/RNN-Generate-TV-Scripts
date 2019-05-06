@@ -4,7 +4,7 @@ This project is done as a part of the Udacity's [Deep Learning Nanodegree](https
 
 LSTMs are implemented using PyTorch framework.
 
-Fake generated tv script by the project can be found in [generated_script_1.txt][generated_script_1.txt]
+Fake generated tv script by the project can be found in [generated_script_1.txt](generated_script_1.txt)
 
 
 ## Instructions
